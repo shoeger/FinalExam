@@ -135,9 +135,6 @@
   <data name="Label11" xml:space="preserve">
     <value>Te deseo lo mejor en su carrera después de la graduación. Espero que usted gana</value>
   </data>
-  <data name="Label12" xml:space="preserve">
-    <value />
-  </data>
   <data name="Label13" xml:space="preserve">
     <value>como un salario en su primer trabajo!</value>
   </data>
@@ -159,17 +156,11 @@
   <data name="Label5" xml:space="preserve">
     <value>Sra.</value>
   </data>
-  <data name="Label6" xml:space="preserve">
-    <value />
-  </data>
   <data name="Label7" xml:space="preserve">
     <value>Soy:</value>
   </data>
   <data name="Label8" xml:space="preserve">
     <value>Espero que tengas un gran día cuando se gradúe en</value>
-  </data>
-  <data name="Label9" xml:space="preserve">
-    <value />
   </data>
   <data name="maleRadioButton" xml:space="preserve">
     <value>Masculino</value>

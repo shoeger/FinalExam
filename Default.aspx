@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" %>
+﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" Culture="auto:en-US" UICulture="auto"%>
 
 <!DOCTYPE html>
 
@@ -46,24 +46,25 @@
 
             <asp:Label ID="Label5" runat="server" Text="<%$ Resources:Resource, Label5 %>"></asp:Label>
 
-            <asp:Label ID="Label6" runat="server" Text="<%$ Resources:Resource, Label6 %>"></asp:Label>
-
-            <asp:Label ID="Label7" runat="server" Text="<%$ Resources:Resource, Label7 %>"></asp:Label>
+            <asp:Label ID="Label6" runat="server"></asp:Label>
             <br />
+            <br />
+            <asp:Label ID="Label7" runat="server" Text="<%$ Resources:Resource, Label7 %>"></asp:Label>
             <asp:RadioButton ID="femaleRadioButton" runat="server" Text="<%$ Resources:Resource, femaleRadioButton %>" />
 
             <asp:RadioButton ID="maleRadioButton" runat="server" Text="<%$ Resources:Resource, maleRadioButton %>" />
             <br />
+            <br />
 
             <asp:Label ID="Label8" runat="server" Text="<%$ Resources:Resource, Label8 %>"></asp:Label>
 
-            <asp:Label ID="Label9" runat="server" Text="<%$ Resources:Resource, Label9 %>"></asp:Label>
+            <asp:Label ID="Label9" runat="server"></asp:Label>
 
             <asp:Label ID="Label10" runat="server" Text="<%$ Resources:Resource, Label10 %>"></asp:Label>
 
             <asp:Label ID="Label11" runat="server" Text="<%$ Resources:Resource, Label11 %>"></asp:Label>
 
-            <asp:Label ID="Label12" runat="server" Text="<%$ Resources:Resource, Label12 %>"></asp:Label>
+            <asp:Label ID="Label12" runat="server"></asp:Label>
 
             <asp:Label ID="Label13" runat="server" Text="<%$ Resources:Resource, Label13 %>"></asp:Label>
             <br />
@@ -74,6 +75,8 @@
             <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
             <br />
             <asp:Label ID="Label15" runat="server" Text="<%$ Resources:Resource, Label15 %>"></asp:Label>
+
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="https://github.com/shoeger">GitHub</asp:HyperLink>
             <br />
             <asp:Button ID="Button1" runat="server" Text="<%$ Resources:Resource, Button1 %>" />
             <br />

@@ -135,9 +135,6 @@
   <data name="Label11" xml:space="preserve">
     <value>أتمنى لكم التوفيق في حياتك المهنية بعد التخرج. آمل أن تكسب</value>
   </data>
-  <data name="Label12" xml:space="preserve">
-    <value />
-  </data>
   <data name="Label13" xml:space="preserve">
     <value>كما راتبا في وظيفتك الأولى</value>
   </data>
@@ -159,17 +156,11 @@
   <data name="Label5" xml:space="preserve">
     <value>السيدة</value>
   </data>
-  <data name="Label6" xml:space="preserve">
-    <value />
-  </data>
   <data name="Label7" xml:space="preserve">
     <value>أنا</value>
   </data>
   <data name="Label8" xml:space="preserve">
     <value>أن يكون لديك</value>
-  </data>
-  <data name="Label9" xml:space="preserve">
-    <value />
   </data>
   <data name="maleRadioButton" xml:space="preserve">
     <value>ذكر</value>
